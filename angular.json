@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "quetelec-calc"
+  "defaultProject": "quetelec-calc",
+  "cli": {
+    "analytics": false
+  }
 }
